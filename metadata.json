@@ -1,0 +1,7 @@
+{
+  "description": "An AI-powered image editor that uses Gemini to modify images based on text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "发型AI顾问"
+}
