@@ -227,25 +227,18 @@ Your support helps me continue developing useful open-source tools!
 <table>
   <tr>
     <td align="center">
-      <img src="./screenshots/money/WeChat.png" alt="WeChat" width="150"/>
+      <img src="./screenshots/money/WeChat.png" alt="WeChat" width="200"/>
       <br/>
       <b>微信支付</b>
       <br/>
       <b>WeChat Pay</b>
     </td>
     <td align="center">
-      <img src="./screenshots/money/Alipay.jpg" alt="Alipay" width="150"/>
+      <img src="./screenshots/money/Alipay.jpg" alt="Alipay" width="200"/>
       <br/>
       <b>支付宝</b>
       <br/>
       <b>Alipay</b>
-    </td>
-    <td align="center">
-      <img src="./screenshots/money/USDT.jpg" alt="USDT" width="150"/>
-      <br/>
-      <b>USDT</b>
-      <br/>
-      <b>(TRC20)</b>
     </td>
   </tr>
 </table>
